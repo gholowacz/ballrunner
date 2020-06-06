@@ -1993,3 +1993,54 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.06-12.28.34:064][805]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.06-12.28.34:064][805]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2020.06.06-12.28.34:064][805]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.06.06-12.31.01:292][292]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ac4087d2-1d0e-4748-8d29-06981b83dd19}.
+[2020.06.06-12.31.01:292][292]LogTemp: Resetting audio stream to device id 
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: Name: C27F390 (NVIDIA High Definition Audio)
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: Channel Order:
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-12.31.01:543][292]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-12.31.07:182][309]LogTemp: Resetting audio stream to device id 
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: Name: C27F390 (NVIDIA High Definition Audio)
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: Channel Order:
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-12.31.07:432][309]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-13.31.52:668][316]LogTemp: Resetting audio stream to device id 
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: Name: C27F390 (NVIDIA High Definition Audio)
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: Channel Order:
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-13.31.53:105][316]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-13.31.53:459][318]LogHttp: Warning: 0000013A8DACF880: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD17BFBC-4944-60AD-7BDC-798742965048%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=02d9c40149f5f6805d6263adccb33265%7C57a5ccad2cd746558f32d4e0467ca502%7Cc2cca3d4-6f29-4206-80cc-e8dcce905ef5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.06-13.31.53:459][318]LogHttp: Warning: 0000013A8DACF880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.06.06-13.31.53:459][318]LogHttp: Warning: 0000013A8DACF880: libcurl info message cache 0 (Connection 17 seems to be dead!)
+[2020.06.06-13.31.53:459][318]LogHttp: Warning: 0000013A8DACF880: libcurl info message cache 1 (Closing connection 17)
+[2020.06.06-13.31.53:459][318]LogHttp: Warning: 0000013A8DACF880: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.06.06-13.31.53:459][318]LogHttp: Warning: 0000013A8DACF880: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.06.06-13.31.53:459][318]LogHttp: Warning: 0000013A8DACF880: libcurl info message cache 4 (Closing connection 18)
+[2020.06.06-13.31.53:845][319]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD17BFBC-4944-60AD-7BDC-798742965048%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=02d9c40149f5f6805d6263adccb33265%7C57a5ccad2cd746558f32d4e0467ca502%7Cc2cca3d4-6f29-4206-80cc-e8dcce905ef5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.06.06-13.31.59:155][333]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{dac9df88-bb13-4223-b4eb-c9a7a04045f3}.
+[2020.06.06-13.31.59:155][333]LogTemp: Resetting audio stream to device id 
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: Name: Słuchawki (15 — DŸwiêk Bluetooth)
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: Channel Order:
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-13.31.59:580][333]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-13.32.01:186][334]LogTemp: Resetting audio stream to device id 
