@@ -667,3 +667,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.06-13.58.08:900][727]AssetCheck: New page: Asset Save: multiple assets
 [2020.06.06-13.58.08:900][727]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
 [2020.06.06-13.58.08:900][727]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2020.06.06-14.28.13:482][557]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Saved/BP_PlayerPawn410B24244AC37FF15ADF68BACFD6181E.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Content/Blueprints/BP_PlayerPawn.uasset'
+[2020.06.06-14.28.13:500][557]AssetCheck: New page: Asset Save: BP_PlayerPawn
+[2020.06.06-14.28.13:500][557]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2020.06.06-14.29.51:062][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.06.06-14.29.51:066][374]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.054
+[2020.06.06-14.29.51:067][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2020.06.06-14.29.51:076][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2020.06.06-14.29.51:077][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2020.06.06-14.29.51:107][374]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Saved/BP_PlayerPawn_Auto3BBB8CDD0464E1657BA7887A7DFDF8749.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto3.uasset'
+[2020.06.06-14.29.51:108][374]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.06.06-14.34.29:789][210]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.06-14.34.29:797][210]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.06-14.39.51:777][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.06.06-14.39.51:781][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.050
+[2020.06.06-14.39.51:782][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2020.06.06-14.39.51:806][799]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2020.06.06-14.39.51:806][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2020.06.06-14.39.51:855][799]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Saved/BP_PlayerPawn_Auto4844DD6B34055FDD4DD56CD9AAF693CA8.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto4.uasset'
+[2020.06.06-14.39.51:856][799]LogFileHelpers: Auto-saving content packages took 0.075
+[2020.06.06-14.40.02:031][ 17]LogSavePackage: Moving '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Saved/BP_PlayerPawn70B08510484C221BB7B97E8B23118557.tmp' to '../../../../../../Users/PC/Desktop/Spore i inne/Studia/Rok 2 Lic 19-20/Programowanie/Ballrunner/Ballrunner_GHołowacz/Content/Blueprints/BP_PlayerPawn.uasset'
+[2020.06.06-14.40.02:048][ 17]AssetCheck: New page: Asset Save: BP_PlayerPawn
+[2020.06.06-14.40.02:048][ 17]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2020.06.06-14.45.25:619][ 65]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ac4087d2-1d0e-4748-8d29-06981b83dd19}.
+[2020.06.06-14.45.25:619][ 65]LogTemp: Resetting audio stream to device id 
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: Name: C27F390 (NVIDIA High Definition Audio)
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: Channel Order:
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-14.45.26:104][ 65]LogAudioMixer: Display: 1: FrontRight
+[2020.06.06-14.45.26:316][ 66]LogTemp: Resetting audio stream to device id 
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: Name: C27F390 (NVIDIA High Definition Audio)
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: Is Default: Yes
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: Channel Order:
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.06-14.45.26:438][ 66]LogAudioMixer: Display: 1: FrontRight
